@@ -20,56 +20,53 @@ In addition to his contributions to the mapping and disaster preparedness commun
 
 Brazil Singh has also shared his knowledge as an instructor, teaching an Introduction to ID Editor course at his chapter. This shows his commitment to not only contributing to the field, but also nurturing and developing the skills of the next generation of mappers. 
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## Nationality
+Bangladeshi
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Birth Year
+25th of May 2002
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Recognition and Awards
+    1.Youthmappers Leadership Fellow, 2024
+    2.YouthMappers Community Outreach Award 2023
+    3.OSM Community Champion 2023, SOTM Thailand
+    4.Open Mapping Guru Fellowship, OPEN Mapping Hub, Asia Pacific
+    
+## Activities
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+| Brazil Singh's Activities
+|-
+| As a trainer on Introduction to ID Editor|
+https://www.facebook.com/youthmapperseu/posts/289884997009324
+| State of the Map Asia Community Champion Award|
+https://www.facebook.com/SotmAsia/posts/766153968890379
+| As a Trainer and Open Mapping Guru on introduction to Maproulette |
+https://www.facebook.com/openmapping.asiapacific/posts/705433491717672
+| Data Analysis for Disaster Management Project |
+https://www.facebook.com/youthmapperseu/videos/236809965652365
+| As a Trainer of Hot's CommunityWG SkillshareCreate Your Own Website |
+https://www.youtube.com/watch?v=O9FmQPWJE9M
+| As a Trainer and Open Mapping Guru on Canva for Everyone Training |
+https://www.youtube.com/watch?v=NYc4ktaOa5o
+| Forewarn Annual Conference & Disaster Hackathon 1.0 Award Ceremony |
+https://www.facebook.com/youthmapperseu/posts/309570158374141
+| Open Mapping Guru Fellowship Award |
+https://www.facebook.com/brazilsinghrittik/posts/2030382190670850
+| Open Mapping Guru Fellowship Award |
+https://www.facebook.com/brazilsinghrittik/posts/2030382190670850
+| As a Trainer and Open Mapping Guru on Training session on OSM Wiki and OSM Diary|
+https://www.facebook.com/openmapping.asiapacific/posts/713230910937930
+| Nominated for OSMBD Election |
+https://www.facebook.com/groups/osmbd/permalink/7210272899031392/
+| Hosted and Become on of The Instructor of Connecting with Community: Let's Switch to Mapping  |
+https://www.facebook.com/euedubd/posts/788573526637381
+| Become Top 1 Mapper in Bangladesh  |
+https://www.facebook.com/brazilsinghrittik/posts/2053511665024569
+| Collaborated and presented OSM id Editor, ARC map, Field Papers with Eastern University, Bangladesh x Eastern University Srilanka x Rajsahi University  |
+https://www.facebook.com/youthmapperseu/posts/402487672415722
+| Trained World Vision Bangladesh Volunteers and collected field data using mapiliary with Open Mapping Hub |
+https://www.facebook.com/openmapping.asiapacific/posts/729330075994680
+| Selected for Youthmappers Leadership Fellow 2024, Thailand |
+https://www.facebook.com/photo/?fbid=734509565476731&set=pcb.734509625476725\
+| My Blog Post on Youthmappers |
+https://www.youthmappers.org/post/my-epic-youthmappers-academy-journey
