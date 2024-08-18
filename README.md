@@ -5,7 +5,7 @@
 Brazil Singh Rittik, also known as Brazil Singh, is a dedicated individual making significant contributions to the world of mapping and disaster preparedness. Currently serving as Open Mapping Guru at the AP Hub and President at the Eastern University Chapter of YouthMappers, he has consistently demonstrated his commitment to helping his community and beyond.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!; Brazil Singh+WordPress+Web+Developer !; Check+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+welcome+To my Github!; Brazil Singh+WordPress+Web+Developer !; Check+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brazilsinghrittik&label=Profile%20views&color=0e75b6&style=flat" alt="brazilsinghrittik" /> </p>
 
