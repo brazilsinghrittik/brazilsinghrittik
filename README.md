@@ -75,7 +75,7 @@ Brazil Singh Rittik, also known as Brazil Singh, is a dedicated individual makin
 
 
 ## Occupation
-WordPress Developer | President- Youthmappers at Eastern University, Bangladesh | OSM GURU, Asia Pacific Region | Voting Member, OSMBD Community | HOT's Community Working Group Member
+WordPress Developer | [OSMF CWG Member](https://osmfoundation.org/wiki/Communication_Working_Group) | President- Youthmappers at Eastern University, Bangladesh | OSM GURU, Asia Pacific Region | Voting Member, OSMBD Community | HOT's Community Working Group Member
 
 ## Biography
 Brazil Singh is an active contributor to OpenStreetMap (OSM), he is known as Open Mapping Guru, where his efforts have played a crucial role in creating detailed and accurate maps that benefit people worldwide. His passion for mapping has led him to actively participate in mapping projects and disaster response initiatives.
@@ -140,3 +140,23 @@ https://www.facebook.com/openmapping.asiapacific/posts/729330075994680
 https://www.facebook.com/photo/?fbid=734509565476731&set=pcb.734509625476725\
 | My Blog Post on Youthmappers |
 https://www.youthmappers.org/post/my-epic-youthmappers-academy-journey
+
+
+**Useful AI Tools for Enhancing Communication and Content Creation**
+I believe could be beneficial for our content creation, communication, and overall workflow. These tools cover a range of functionalities, from video editing and image creation to language translation and email assistance.
+
+| Tool Name        | URL  | Primary Function                    |
+|------------------|------|-------------------------------------|
+| Copilot          | [Link](https://copilot.microsoft.com/) | ChatGPT Alternative                 |
+| Compose AI       | [Link](https://chromewebstore.google.com/detail/compose-ai-ai-powered-wri/ddlbpiadoechcolndfeaonajmngmhblj?pli=1) | Email assistance                    |
+| Claude AI        | [Link](https://claude.ai/) | Article summarization               |
+| Humata AI        | [Link](https://humata.ai/) | Book summarization and querying     |
+| Pitch            | [Link](https://pitch.com/) | Presentation creation               |
+| Tome.app         | [Link](https://tome.app/) | Presentation creation               |
+| Simplified       | [Link](https://simplified.com/) | AI content generation               |
+| Feedly           | [Link](https://feedly.com/) | Content idea generation             |
+| InVideo          | [Link](https://invideo.io/) | Text-based content creation         |
+| Heygen           | [Link](https://heygen.com/) | Language translation to Spanish     |
+| Opus Pro         | [Link](https://opus.pro/) | Video editing                       |
+| Vidyo.ai         | [Link](https://vidyo.ai/) | Video editing                       |
+| MidJourney       | [Link](https://midjourney.com/) | Image creation                      |
