@@ -1,4 +1,4 @@
-# Hello, I'm Brazil Singh Rittik
+# Hello, I'm Brazil Singh
 <p align="center">
   <a href="https://www.linkedin.com/in/brazil-singh-rittik/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
