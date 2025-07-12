@@ -2,10 +2,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/brazil-singh-rittik/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a rel="me" href="https://en.osm.town/@brazilsinghrittik">Mastodon</a>
-    <img src="https://img.shields.io/badge/-Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
+  <img alt="Mastodon Follow" src="[https://img.shields.io/mastodon/follow/:id](https://en.osm.town/@brazilsinghrittik)">
 </p>
 
 ---
